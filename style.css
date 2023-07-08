@@ -1,0 +1,162 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, h2{
+    text-align: center;
+    margin-bottom: 25px;
+    text-shadow: 2px 2px 3px darkgoldenrod;
+}
+
+.wrapper {
+    height: 60px;
+    background-color: rgb(209, 46, 46);
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+.sec {
+    float: left;
+}
+
+.one {
+    height: 80px;
+    width: 20%;
+    background-color: aquamarine;
+}
+
+.two {
+    height: 80px;
+    width: 20%;
+    background-color: rgb(70, 206, 160);
+}
+
+.three {
+    height: 60px;
+    width: 20%;
+    background-color: rgb(48, 165, 126);
+}
+
+.four {
+    height: 60px;
+    width: 20%;
+    background-color: rgb(12, 136, 95);
+}
+
+.five {
+    height: 60px;
+    width: 20%;
+    background-color: rgb(1, 75, 50);
+}
+
+.header, .footer {
+    height: 100px;
+    background-color: rgb(7, 67, 107);
+}
+
+.container {
+    overflow: hidden;
+}
+
+.layout {
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+.blog {
+    background-color: rgb(57, 93, 160);
+}
+
+.contact {
+    background-color: rgb(2, 139, 180);
+}
+
+.cont {
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.com {
+    float: left;
+}
+
+.ek, .dui, .teen, .char {
+    height: 80px;
+}
+
+.ek {
+
+    background-color: rgb(155, 155, 252);
+    width: 40%;
+}
+
+.dui {
+    background-color: rgb(104, 104, 218);
+    width: 60%;
+}
+
+.teen {
+    background-color: rgb(30, 30, 126);
+    width: 75%;
+}
+
+.char {
+    background-color: rgb(1, 1, 70);
+    width: 25%;
+}
+
+.flex-heading {
+    margin-top: 25px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+}
+
+.onee {
+    height: 60px;
+    background-color: orangered;
+    width: 25%;
+}
+
+.twoo {
+    height: 60px;
+    background-color: rgb(216, 59, 3);
+    width: 75%;
+}
+
+.threee {
+    height: 60px;
+    background-color: rgb(199, 55, 3);
+    width: 45%;
+}
+
+.fourr {
+    height: 60px;
+    background-color: rgb(136, 37, 2);
+    width: 55%;
+}
+
+.fivee {
+    height: 60px;
+    background-color: rgb(83, 23, 1);
+    width: 70%;
+}
+
+.sixx {
+    height: 60px;
+    background-color: rgb(32, 9, 0);
+    width: 30%;
+}
+
+.p {
+    margin-top: 25px;
+    font-size: larger;
+}
+
+input {
+    accent-color: red;
+}
