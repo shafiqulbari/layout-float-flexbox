@@ -152,9 +152,10 @@ h1, h2{
     width: 30%;
 }
 
-.p {
+p {
     margin-top: 25px;
     font-size: larger;
+    font-family: sans-serif;
 }
 
 input {
